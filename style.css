@@ -1,0 +1,27 @@
+#head {
+  position:fixed;
+  width:100%;
+  top:0;
+  left:0;
+  right:0;
+  font-variant:small-caps;
+  background: #006680;
+  color:turquoise;
+  text-align:center;
+  margin-top:0;
+  font-size:30px;
+}
+#content-of-page {
+  position:fixed;
+  overflow:auto;
+  top:40px;
+  left:0;
+  right:0;
+  bottom:0;
+  text-align:center;
+}
+body {
+  font-family:sans-serif;
+  background:#121212;
+  color:#ededed;
+}
